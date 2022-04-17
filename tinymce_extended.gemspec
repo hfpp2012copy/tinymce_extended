@@ -1,20 +1,20 @@
-require_relative "lib/example/version"
+require_relative "lib/tinymce_extended/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "example"
-  spec.version = Example::VERSION
-  spec.authors = ["Example Owner"]
-  spec.email = ["owner@example.com"]
+  spec.name = "tinymce_extended"
+  spec.version = TinymceExtended::VERSION
+  spec.authors = ["hfpp2012"]
+  spec.email = ["hfpp2012@gmail.com"]
 
   spec.summary = ""
-  spec.homepage = "https://github.com/mattbrictson/gem"
+  spec.homepage = "https://github.com/hfpp2012copy/tinymce_extended"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata = {
-    "bug_tracker_uri" => "https://github.com/mattbrictson/gem/issues",
-    "changelog_uri" => "https://github.com/mattbrictson/gem/releases",
-    "source_code_uri" => "https://github.com/mattbrictson/gem",
+    "bug_tracker_uri" => "https://github.com/hfpp2012copy/tinymce_extended/issues",
+    "changelog_uri" => "https://github.com/hfpp2012copy/tinymce_extended/releases",
+    "source_code_uri" => "https://github.com/hfpp2012copy/tinymce_extended",
     "homepage_uri" => spec.homepage,
     "rubygems_mfa_required" => "true"
   }
